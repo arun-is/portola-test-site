@@ -1,1 +1,5 @@
 .DS_Store
+
+inner_workings/
+
+node_modules/
